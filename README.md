@@ -1,7 +1,7 @@
 # About Me
 Hi, my name is José Maria. I'm 26 years old and live in Belo Horizonte, Brazil.
 
-Currently, I'm graduating in Math at the Federal University of Minas Gerais and searching for new opportunities to work with data analysis or data science.
+Currently, I'm graduating in Math at the Federal University of Minas Gerais and searching for new opportunities to work with Data Analysis or Data Science.
 
 # Projects
 
