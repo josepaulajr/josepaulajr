@@ -7,9 +7,9 @@ Currently, I'm graduating in Math at the Federal University of Minas Gerais and 
 
 To study, practice, and apply my bits of knowledge, I have worked on some personal projects.
 
-## COVID-19: A Global Visualization (Power BI)
+## COVID-19: A Global View (Power BI)
 
-https://github.com/josepaulajr/COVID-19_Analisys
+https://github.com/josepaulajr/COVID-19_A_Global_View
 
 This project combines two data sources and two reports to see how Covid-19 evolved in the world. The project afforded me to practice several data processes like ETL, Wrangling, Analysis, and Visualization. Besides many Power BI tools and concepts: Merge Queries, Time intelligence functions, Filter Context Measures, Row Context Measures, etc.   
 
