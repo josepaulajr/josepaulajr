@@ -7,6 +7,12 @@ Currently, I'm graduating in Math at the Federal University of Minas Gerais and 
 
 To study, practice, and apply my bits of knowledge, I have worked on some personal projects.
 
+## Brazillian E-Commerce: States and Freights Analyses (Python)
+
+https://github.com/josepaulajr/Brazillian_E-Commerce
+
+Through Data Visualization using NumPy, Pandas, Matplotlib, and Seaborn, that notebook explores the Brazillian E-Commerce with Python. The project continues in development and, soon, I intend found the best regression model to predict a freight.
+
 ## COVID-19: A Global View (Power BI)
 
 https://github.com/josepaulajr/COVID-19_A_Global_View
