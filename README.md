@@ -11,7 +11,7 @@ To study, practice, and apply my bits of knowledge, I have worked on some person
 
 https://github.com/josepaulajr/Brazillian_E-Commerce
 
-Through Data Visualization using NumPy, Pandas, Matplotlib, and Seaborn, that notebook explores the Brazillian E-Commerce with Python. The project continues in development and, soon, I intend found the best regression model to predict a freight.
+Through Data Visualization using NumPy, Pandas, Matplotlib, and Seaborn, that notebook explores the Brazillian E-Commerce with Python. The project continues in development and, soon, I intend to found the best regression model to predict a freight.
 
 ## COVID-19: A Global View (Power BI)
 
