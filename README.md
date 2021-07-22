@@ -5,7 +5,7 @@ Currently, I'm graduating in Math at the Federal University of Minas Gerais and 
 
 # Projects
 
-To study, practice, and apply my bits of knowledge, I have worked on some personal projects.
+To study, practice, and apply my bits of knowledge, I have been worked on some personal projects.
 
 ## Brazillian E-Commerce: States and Freights Analyses (Python)
 
